@@ -1,0 +1,6 @@
+numpy
+matplotlib
+ChiantiPy
+emcee
+tinygp
+sphinx
